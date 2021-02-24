@@ -423,7 +423,7 @@ body{
 }
 @media (max-width: 1250px){
 .benefits__images{
-	width: 50%;
+	width: 100%;
 }
 }
 @media (max-width: 1140px){
@@ -553,7 +553,7 @@ body{
 	padding-right: 0;
 }
 .benefits__images{
-	width: 70%;
+	width: 100%;
 }
 .benefits__list-item{
 	margin-right: 0;
